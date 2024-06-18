@@ -30,7 +30,9 @@ Flash the device following OP-TEE documentation.
 
 Login with password root
 
-Run the command to get the layerwise execution time na dlayer-size using the following command: `darknetp classifier predict -pp_start 4 -pp_end 10 <path to dataset> <path to cfg> <path to weights> <path to test image>`
+Run the command to get the layerwise execution time na dlayer-size using the following command: `darknetp classifier predict -pp_start 2 -pp_end 3 <path to dataset> <path to cfg> <path to weights> <path to test image>`
+
+Run this command to get the necessary data and use those data in 
 
 
 
