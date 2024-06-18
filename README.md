@@ -15,4 +15,5 @@ We use the following environment to perform the test:
 ## OP-TEE installation
 
 Install OP-TEE by following instruction from here [OP-TEE Documentation](https://optee.readthedocs.io/en/latest/building/index.html)
+
 To install optee in Raspebrry Pi, follow this instruction: [install OP-TEE on Raspberry Pi](https://optee.readthedocs.io/en/latest/building/devices/rpi3.html)
