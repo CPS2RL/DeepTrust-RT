@@ -12,3 +12,7 @@ We use the following environment to perform the test:
 
 3. OP-TEE 3.19.0
 
+## OP-TEE installation
+
+Install OP-TEE by following instruction from here [OP-TEE Documentation](https://optee.readthedocs.io/en/latest/building/index.html)
+
