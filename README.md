@@ -3,7 +3,7 @@
 
 This repository have necessary code and instruction to implement our DeepTrust^RT project.
 
-# Testing Platform
+## Testing Platform
 
 We use the following environment to perform the test:
 1. 4x ARM Cortex A53, 1 GB RAM (Raspberry Pi 3 B)
