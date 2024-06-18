@@ -24,4 +24,8 @@ Clone Darkentz from this repo to `<optee_dir>/optee_examples` folder
 
 Download necessary weight, cfg, dataset file from here [Darknet Site](https://pjreddie.com/darknet/) and put those files in `$optee_dir$/out-br/target/root/` directory
 
+Flash the device following OP-TEE documentation.
+
+
+
 
