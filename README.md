@@ -22,6 +22,6 @@ To install optee in Raspebrry Pi, follow this instruction: [install OP-TEE on Ra
 
 Clone Darkentz from this repo to `<optee_dir>/optee_examples` folder
 
-Download necessary weight, cfg, dataset file from here [Darknet Site](https://pjreddie.com/darknet/)
+Download necessary weight, cfg, dataset file from here [Darknet Site](https://pjreddie.com/darknet/) and put those files in `$optee_dir$/out-br/target/root/` directory
 
 
