@@ -6,6 +6,9 @@ This repository have necessary code and instruction to implement our DeepTrust^R
 # Testing Platform
 
 We use the following environment to perform the test:
-1. 
-2.
-3.
+1. 4x ARM Cortex A53, 1 GB RAM (Raspberry Pi 3 B)
+
+2. Linux 6.2.0
+   
+3.OP-TEE 3.19.0
+
