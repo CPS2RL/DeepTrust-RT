@@ -32,7 +32,7 @@ Login with password root
 
 Run the command to get the layerwise execution time na dlayer-size using the following command: `darknetp classifier predict -pp_start 2 -pp_end 3 <path to dataset> <path to cfg> <path to weights> <path to test image>`
 
-Run this command to get the necessary data and use those data in `task_sched_response.py` to get the response time. we use those data
+Run this command to get the necessary data and use those data in `task_sched_response.py` to get the response time. we use those data in `subplot_res.py` and `subplot_sched.py` to get the plot.
 
 
 
