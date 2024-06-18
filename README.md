@@ -19,3 +19,9 @@ Install OP-TEE by following instruction from here [OP-TEE Documentation](https:/
 To install optee in Raspebrry Pi, follow this instruction: [install OP-TEE on Raspberry Pi](https://optee.readthedocs.io/en/latest/building/devices/rpi3.html)
 
 ## Building DeepTrust^RT 
+
+Clone Darkentz from this repo to <optee_dir>/optee_examples folder
+
+Download necessary weight, cfg, dataset file from here [Download](https://pjreddie.com/darknet/)
+
+
