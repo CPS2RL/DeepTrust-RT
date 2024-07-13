@@ -443,7 +443,7 @@ def find_fusion(task_w, task_c, task_i,task_avl,task_p,SIMULATION_TIME):
         i=0
         c=1
         if m>0:
-          wcet=wcet+0.02
+          wcet=wcet
           #print(" first loop fused candidate size: ", m)
           #print("fused candidate computation time: ", wcet)
           #print("task_w_sched",task_w_sched)
@@ -492,7 +492,7 @@ def find_fusion(task_w, task_c, task_i,task_avl,task_p,SIMULATION_TIME):
           #print(i)
           if i>len(task_i)-1:
             if m>0:
-              wcet=wcet+0.02
+              wcet=wcet
               #print("fused candidate size: ", m)
               #print("fused candidate computation time: ", wcet)
               #print("task_w_sched",task_w_sched)
