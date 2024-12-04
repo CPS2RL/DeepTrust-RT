@@ -1,7 +1,7 @@
 
 # DeepTrust^RT: Confidential Deep Neural Inference Meets Real-Time!
 
-This repository have necessary code and instruction to implement our DeepTrust^RT project.
+This repository have necessary code and instruction to implement DeepTrust^RT (ECRTS'2024, available: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECRTS.2024.13).
 
 ## Testing Platform
 
